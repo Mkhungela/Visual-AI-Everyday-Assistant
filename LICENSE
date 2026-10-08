@@ -1,0 +1,33 @@
+Copyright © 2026 Lulamile Mkhungela. All rights reserved.
+
+Show Me · Visual AI Everyday Assistant
+https://github.com/LulamileMkhungela/Visual-AI-Everyday-Assistant
+
+This software and its source code are the property of Lulamile Mkhungela.
+
+No permission is granted to copy, modify, distribute, sublicense, publish or sell
+this software or any part of it, in source or compiled form, without the prior
+written permission of the copyright holder. Viewing the source on a public
+repository does not grant any of those rights.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+Third-party names, products and trademarks referenced in this project's
+documentation (including but not limited to Google Gemini, OpenAI, Anthropic
+Claude, OpenRouter, Groq, Ollama, Apple, Microsoft, NotebookLM, Elicit, Consensus,
+Be My Eyes, Seeing AI and Envision) belong to their respective owners. They appear
+for factual comparison and source attribution only, and their mention does not
+imply any affiliation with or endorsement of this project.
+
+Safety notice: this software produces AI-generated guidance about physical tasks
+and is not a substitute for a qualified professional. It is designed to refuse
+tasks it cannot safely guide someone through, but it can still be wrong. Do not
+rely on it for anything involving live electricity, gas, vehicle safety systems or
+work at height.
